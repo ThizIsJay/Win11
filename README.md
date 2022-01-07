@@ -24,6 +24,6 @@ U kunt natuurlijk ook zelf meer software repositories toevoegen.
 De lijst met repositories vind u [hier]("https://rasa.github.io/scoop-directory/by-score.html")
 
 Voorbeeld
-'''
+````
  PS: scoop bucket add NAAM URL
-'''
+````
