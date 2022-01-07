@@ -5,7 +5,7 @@ In deze repositorie vind je de volgende scripts
 * Mijn script voor school pcs
 
 # Hoe werkt dit script
-Dit script werkt door scoop("https://scoop.sh") te installeren op de computer.
+Dit script werkt door [scoop](https://scoop.sh) te installeren op de computer.
 
 Scoop is een software beheerder, dit programma kan software installeren, verwijderen en beheren zonder User Account Control.
 
@@ -21,9 +21,9 @@ Dit script configureerd automatisch de volgende repositories
 
 U kunt natuurlijk ook zelf meer software repositories toevoegen.
 
-De lijst met repositories vind u hier("https://rasa.github.io/scoop-directory/by-score.html")
+De lijst met repositories vind u [hier]("https://rasa.github.io/scoop-directory/by-score.html")
 
 Voorbeeld
-''''
+'''
  PS: scoop bucket add NAAM URL
-''''
+'''
